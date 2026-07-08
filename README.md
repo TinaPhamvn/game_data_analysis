@@ -29,5 +29,5 @@
 <img width="1920" height="1080" alt="27" src="https://github.com/user-attachments/assets/b656e8ab-b987-4aa1-b699-01950e232a5a" />
 <img width="1920" height="1080" alt="28" src="https://github.com/user-attachments/assets/9308f7a8-b0ac-4670-b9ad-1b3a26572ce8" />
 <img width="1920" height="1080" alt="29" src="https://github.com/user-attachments/assets/cbb7059e-1e2a-4cef-bcb2-fdc62694cb96" />
-<img width="1920" height="1080" alt="30" src="https://github.com/user-attachments/assets/1b460bc6-1cde-4d9c-b6f2-e83cdac72647" />
+
 
