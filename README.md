@@ -2,7 +2,6 @@
 [Predict Online Gaming Behavior.pdf](https://github.com/user-attachments/files/29819936/Predict.Online.Gaming.Behavior.pdf)
 
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/20b5a132-b61c-4b08-b2d1-443670963d32" />
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/24428f51-838e-44f9-9fd6-479e81f60e31" />
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/f3e40d30-f276-4fa2-a43b-2120a8d3cee2" />
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/312d75cf-0315-405b-8ae0-c72a6ca81e7e" />
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/397431ef-d916-44b0-9d22-5eece45f6ad4" />
